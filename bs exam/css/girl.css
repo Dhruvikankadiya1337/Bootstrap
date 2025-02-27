@@ -1,0 +1,50 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.box
+{
+    height: 80px;
+    width: 100%;
+    background-color:white;
+}
+ .main
+{
+    height: 600px;
+    width: 100%;
+}
+.photos
+{
+    height: 550px;
+    width: 100%;    
+}
+.photo-item img
+{
+    height: 630px;
+    width: 100%;
+} 
+ .text
+{
+    margin-left:19% ;
+    position: absolute;
+    top: 25%;
+    left: -5%;
+}
+.text h1
+{
+    color: #2D465E;
+    font-size: 43px;    
+}
+.text p
+{
+    font-size: 20px;
+}
+.box1
+{
+   position: absolute;
+   top: 50%;
+   left: 10%;
+   background: transparent; 
+}
