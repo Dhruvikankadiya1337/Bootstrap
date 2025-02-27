@@ -5,4 +5,4 @@ https://vocal-marshmallow-6045b7.netlify.app/
 
 
 <h1> Bootstrap exam</h1>
-<img src="Screenshot 2025-02-27 104116.png">
+<img src="https://github.com/Dhruvikankadiya1337/Bootstrap/blob/ef4fbc14ef685a6876d66799cc1e5749dc51736f/bs%20exam/Screenshot%202025-02-27%20104116.png">
